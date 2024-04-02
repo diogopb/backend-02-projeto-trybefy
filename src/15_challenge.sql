@@ -1,0 +1,1 @@
+DELETE FROM albums WHERE release_year BETWEEN 1970 and 1979;
