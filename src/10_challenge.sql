@@ -43,3 +43,5 @@ VALUES ('Thriller', 1982, 1),
     (
         'Entradas e Bandeiras', 1976, 5
     );
+
+SELECT * FROM albums;
